@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+ 
+.icon-down-dir:before { content: '\25be'; } /* '▾' */
+.icon-group:before { content: '\e091'; } /* '' */
+.icon-up-open:before { content: '\e0cb'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-coffee:before { content: '\f0f4'; } /* '' */
+.icon-food:before { content: '\f0f5'; } /* '' */
+.icon-circle-empty:before { content: '\f10c'; } /* '' */
+.icon-circle:before { content: '\f111'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-award:before { content: '🏉'; } /* '\1f3c9' */
